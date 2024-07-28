@@ -12,7 +12,6 @@ The Smart Home System is a Console Based Java application that simulates the man
 - Set thermostat temperature.
 - Add automation rules for controlling devices based on temperature thresholds.
 - Display the status of all devices.
-- Uses the Proxy pattern to control access to devices.
 
 ## Design Patterns Used
 
@@ -24,6 +23,7 @@ The Smart Home System is a Console Based Java application that simulates the man
 
 1. Run the application:
    ```bash
+   javac Main.java
    java Main
    ```
 2. Follow the on-screen menu to interact with the Smart Home System.
